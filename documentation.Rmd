@@ -1,0 +1,24 @@
+---
+title: "Documentation"
+author: "Mark Munsell"
+date: "October 22, 2015"
+output: html_document
+---
+
+This app uses the MTCars data set which tracks MPG for many models of cars.
+The data sets includes many different configuration options.  The app uses
+four of them to show how they can affect your MPG.
+
+You can use the drop down menu to pick an option.
+  
+  
+Your choices are:
+* Number of Cylinders
+* Number of Gears
+* Transmission type (Auto, Manual)
+* Number of Carbs
+  
+  
+Once you pick your option from the drop down *click View Plot*.
+
+You will see a box plot of the MPG range for your choice.
